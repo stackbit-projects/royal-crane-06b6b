@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Ana.'
-    subtitle: I enjoy sharing my experiences and knowledge. The a
+    subtitle: I like to keep in touch with the newest topics in the IT industry.
     actions:
       - label: Contact Me
         url: /contact
