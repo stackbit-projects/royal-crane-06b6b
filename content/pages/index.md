@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Ana.'
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: I like to share my experiences and knowledge with
     actions:
       - label: Contact Me
         url: /contact
